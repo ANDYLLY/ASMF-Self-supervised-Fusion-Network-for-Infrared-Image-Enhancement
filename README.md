@@ -100,6 +100,6 @@ python train/test.py --name="your_experiment_name" --Dataset="datasetname"
 
 Since our work is based on a self-supervised network, also known as Zero-shot or single-image enhancement in some papers, our method is recommended for training the model on your own dataset (a very small dataset, just around 200-300 images, is enough).  
 
-If you meet any problem while using my work, you can contact my email: andy_lly@163.com. 
+If you meet any problem while using my work, be free to contact my email: andy_lly@163.com, it is really welcome. 
 
 Unfortunately, the training code cannot be released at this time, but I will make it available as soon as possible. I sincerely hope that this repository can be helpful to you. 
