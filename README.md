@@ -69,7 +69,7 @@ use command:
 python test.py --name=LGC_std --Dataset=LGC
 ```
 
-Then you can check output images at folder "experiment name".
+Then you can check output images at folder "LGC_std".
 
 ## Train
 
